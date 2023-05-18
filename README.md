@@ -1,1 +1,1 @@
-# vtotal
+# react-redux-virustotal-api
